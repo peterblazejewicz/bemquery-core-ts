@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/peterblazejewicz/bemquery-core-ts/issues"
   },
-  "homepage": "https://github.com/peterblazejewicz/bemquery-core-ts#readme"
+  "homepage": "https://github.com/peterblazejewicz/bemquery-core-ts#readme",
+  "devDependencies": {
+    "typescript": "^2.1.5"
+  }
 }
