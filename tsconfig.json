@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "umd",
+        "target": "es5",
+        "noImplicitAny": false,
+        "declaration": true,
+        "sourceMap": true,
+        "outDir": "dist"
+    },
+    "include": [
+        "src/**/*.ts"
+    ]
+}
